@@ -1,0 +1,27 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="../main.css">
+</head>
+
+<body>
+<h1> Jeremiah Fehrle's Contact Info </h1>
+
+<div class="navigation">
+	<nav>
+		<ul>
+			<li> <a href="../index.html"> Bio </a></li>
+			<li> <a href="Gallery.html">Gallery </li>
+			<li> Contact </li>
+		</ul>
+	</nav>
+</div>
+<p> This is where all of the photo's and images will go </p>
+
+</body>
+
+<footer>
+<h6> This is a test website. Its sole purpose is to work on and develope 
+professional skills in editing websites</h6>
+</footer>
+
+</html>

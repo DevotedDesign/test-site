@@ -1,0 +1,24 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="
+
+Painting Portfolio
+
+</head>
+
+<body>
+This will be where I place my Bio section
+
+
+
+
+
+
+
+
+</body>
+
+<footer>
+</footer>
+
+</html>

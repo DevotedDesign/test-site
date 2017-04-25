@@ -1,0 +1,84 @@
+Body {
+	Background-image: url("pictures/background 1.png");
+	Background-repeat: no-repeat;
+	background-position: stretch-center;
+	background-attachment: fixed;
+	text-align: center;
+	
+	
+	
+
+
+}
+
+h1 {
+	background-color: white;
+	margin: 0%;
+	color: 999999;
+	font-size: xx-large;
+	font-style: Oblique;
+	font-weight: bolder;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic',
+	CenturyGothic, AppleGothic, sans-serif;
+	Border-radius: 10px;
+	border-style: none;
+	border-width: thin;
+	border-color: black;
+	
+
+}
+
+
+P {
+	padding: none;
+	letter-spacing: 2px;
+	Margin: 0;
+	font-family: Lucida Calligraphry;
+	font-style: italic;
+	border-style: thin;
+	border-color: black;
+
+
+}
+
+
+.radial {
+	border: 10px;
+	border-style: thin;
+	border-color: black;
+}
+
+
+.navigation ul li{
+	
+	float: left;
+	Background-color: 999999;
+	padding: 0;
+	Margin: 0px 30px;
+	letter-spacing: 2px;
+	font-size-adjust: 5px;
+	Border-radius: 100px;
+	font-weight: bolder;
+	font-size: large;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic',
+	CenturyGothic, AppleGothic, sans-serif;
+	border-style: solid;
+	border-width: thin;
+	border-color: 999999;
+	Display: block;
+	word-wrap: break-word;
+
+	
+
+}
+
+.navigation ul li a{
+	color: white;
+	text-style: none;
+}
+
+#dropdown {
+	text-align: left;
+	float: left;
+	margin: 1px 5px;
+}	
